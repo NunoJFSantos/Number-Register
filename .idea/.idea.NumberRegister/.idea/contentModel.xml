@@ -18,7 +18,7 @@
         </e>
         <e p="NumberRegister.csproj" t="IncludeRecursive" />
         <e p="obj" t="ExcludeRecursive">
-          <e p="Debug" t="Include">
+          <e p="Release" t="Include">
             <e p="netcoreapp3.1" t="Include">
               <e p="NumberRegister.AssemblyInfo.cs" t="Include" />
               <e p="NumberRegister.RazorAssemblyInfo.cs" t="Include" />
