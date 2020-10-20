@@ -1,10 +1,10 @@
 # Number-Register
 ASP.Net Core web application developed for a job tech challenge
 
-# The Project
+## The Project
 Web application implementing CRUD operations on number registrations. Also displays an interface for the insertion of persisted data id's and retrieving the sum of this data's values.
 
-# Instructions
+## Instructions
 Before running the application edit your database server settings on the NumberRegister/appsettings.json file, replacing the text in single quotes as follows:
 
 ```
@@ -27,7 +27,7 @@ dotnet run NumberRegister.exe
 
 Finally navigate to https://localhost:5001/NumberRegister in your browser.
 
-### MacOS:
+#### MacOS:
 
 ```
 cd NumberRegister/bin/Release/netcoreapp3.1/osx-x64/
