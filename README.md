@@ -13,9 +13,9 @@ Before running the application edit your database server settings on the NumberR
   }
   ```
 
-To run the application, first ```cd``` to: 
+To run the application, first `cd` to: 
 
-```cd NumberRegister/bin/Release/netcoreapp3.1/win-x64/```
+`cd NumberRegister/bin/Release/netcoreapp3.1/win-x64/`
 
 Then run the following commands to install the required packages, run database migrations, and start the application:
 
