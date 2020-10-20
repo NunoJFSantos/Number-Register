@@ -27,8 +27,8 @@
         <option value="$PROJECT_DIR$/NumberRegister/Model/Sum.cs" />
         <option value="$PROJECT_DIR$/NumberRegister/Model/Number.cs" />
         <option value="$PROJECT_DIR$/NumberRegister/Pages/NumberRegister/Index.cshtml.cs" />
-        <option value="$PROJECT_DIR$/NumberRegister/appsettings.json" />
         <option value="$PROJECT_DIR$/NumberRegister/Pages/Shared/_Layout.cshtml" />
+        <option value="$PROJECT_DIR$/NumberRegister/appsettings.json" />
       </list>
     </option>
   </component>
@@ -46,8 +46,20 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Publish to folder.Publish NumberRegister to folder">
+  <component name="RunManager" selected="Publish to folder.Publish NumberRegister to folder (2)">
+    <configuration name="Publish NumberRegister to folder (1)" type="DotNetFolderPublish" factoryName="Publish to folder" temporary="true">
+      <riderPublish runtime="osx-x64" self_contained="true" target_folder="$PROJECT_DIR$/NumberRegister/bin/Debug/netcoreapp3.1/osx-x64" target_framework="netcoreapp3.1" uuid_high="-4955211300616255539" uuid_low="-5003099143802490391" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Publish NumberRegister to folder (2)" type="DotNetFolderPublish" factoryName="Publish to folder" temporary="true">
+      <riderPublish uuid_high="-4955211300616255539" uuid_low="-5003099143802490391" />
+      <method v="2" />
+    </configuration>
     <configuration name="Publish NumberRegister to folder" type="DotNetFolderPublish" factoryName="Publish to folder" temporary="true">
+      <riderPublish runtime="win-x64" self_contained="true" target_folder="$PROJECT_DIR$/NumberRegister/bin/Debug/netcoreapp3.1/win-x64" target_framework="netcoreapp3.1" uuid_high="-4955211300616255539" uuid_low="-5003099143802490391" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Publish NumberRegister to custom server" type="DotNetPublishAndUpload" factoryName="Publish to custom server" temporary="true">
       <riderPublish uuid_high="-4955211300616255539" uuid_low="-5003099143802490391" />
       <method v="2" />
     </configuration>
@@ -83,7 +95,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Publish to folder.Publish NumberRegister to folder (2)" />
+        <item itemvalue="Publish to folder.Publish NumberRegister to folder (1)" />
         <item itemvalue="Publish to folder.Publish NumberRegister to folder" />
+        <item itemvalue="Publish to custom server.Publish NumberRegister to custom server" />
       </list>
     </recent_temporary>
   </component>
@@ -96,7 +111,7 @@
       <option name="presentableId" value="Default" />
       <updated>1603019461097</updated>
       <workItem from="1603019491306" duration="2328000" />
-      <workItem from="1603021969118" duration="45604000" />
+      <workItem from="1603021969118" duration="50772000" />
     </task>
     <servers />
   </component>
@@ -109,37 +124,42 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="309" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603134698692">
-      <screen x="0" y="23" width="1440" height="810" />
+    <state x="320" y="92" key="#Deployment" timestamp="1603195729676">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="320" y="92" key="#Deployment/0.23.1440.812@0.23.1440.812" timestamp="1603195729674" />
+    <state x="309" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603196246108">
+      <screen x="0" y="23" width="1440" height="812" />
     </state>
     <state x="309" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.810@0.23.1440.810" timestamp="1603134698692" />
-    <state width="1398" height="193" key="GridCell.Tab.0.bottom" timestamp="1603190978840">
-      <screen x="0" y="23" width="1440" height="807" />
+    <state x="309" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.812@0.23.1440.812" timestamp="1603196246108" />
+    <state width="1398" height="193" key="GridCell.Tab.0.bottom" timestamp="1603223694233">
+      <screen x="0" y="23" width="1440" height="810" />
     </state>
     <state width="1358" height="193" key="GridCell.Tab.0.bottom/0.23.1440.805@0.23.1440.805" timestamp="1603065146407" />
     <state width="1398" height="193" key="GridCell.Tab.0.bottom/0.23.1440.807@0.23.1440.807" timestamp="1603190978840" />
-    <state width="1398" height="193" key="GridCell.Tab.0.bottom/0.23.1440.810@0.23.1440.810" timestamp="1603190687035" />
+    <state width="1398" height="193" key="GridCell.Tab.0.bottom/0.23.1440.810@0.23.1440.810" timestamp="1603223694232" />
     <state width="1358" height="193" key="GridCell.Tab.0.bottom/0.23.1440.812@0.23.1440.812" timestamp="1603133479393" />
-    <state width="1398" height="193" key="GridCell.Tab.0.center" timestamp="1603190978837">
-      <screen x="0" y="23" width="1440" height="807" />
+    <state width="1398" height="193" key="GridCell.Tab.0.center" timestamp="1603223694231">
+      <screen x="0" y="23" width="1440" height="810" />
     </state>
     <state width="1358" height="193" key="GridCell.Tab.0.center/0.23.1440.805@0.23.1440.805" timestamp="1603065146406" />
     <state width="1398" height="193" key="GridCell.Tab.0.center/0.23.1440.807@0.23.1440.807" timestamp="1603190978837" />
-    <state width="1398" height="193" key="GridCell.Tab.0.center/0.23.1440.810@0.23.1440.810" timestamp="1603190687030" />
+    <state width="1398" height="193" key="GridCell.Tab.0.center/0.23.1440.810@0.23.1440.810" timestamp="1603223694231" />
     <state width="1358" height="193" key="GridCell.Tab.0.center/0.23.1440.812@0.23.1440.812" timestamp="1603133479381" />
-    <state width="1398" height="193" key="GridCell.Tab.0.left" timestamp="1603190978832">
-      <screen x="0" y="23" width="1440" height="807" />
+    <state width="1398" height="193" key="GridCell.Tab.0.left" timestamp="1603223694230">
+      <screen x="0" y="23" width="1440" height="810" />
     </state>
     <state width="1358" height="193" key="GridCell.Tab.0.left/0.23.1440.805@0.23.1440.805" timestamp="1603065146405" />
     <state width="1398" height="193" key="GridCell.Tab.0.left/0.23.1440.807@0.23.1440.807" timestamp="1603190978832" />
-    <state width="1398" height="193" key="GridCell.Tab.0.left/0.23.1440.810@0.23.1440.810" timestamp="1603190687024" />
+    <state width="1398" height="193" key="GridCell.Tab.0.left/0.23.1440.810@0.23.1440.810" timestamp="1603223694230" />
     <state width="1358" height="193" key="GridCell.Tab.0.left/0.23.1440.812@0.23.1440.812" timestamp="1603133479377" />
-    <state width="1398" height="193" key="GridCell.Tab.0.right" timestamp="1603190978838">
-      <screen x="0" y="23" width="1440" height="807" />
+    <state width="1398" height="193" key="GridCell.Tab.0.right" timestamp="1603223694231">
+      <screen x="0" y="23" width="1440" height="810" />
     </state>
     <state width="1358" height="193" key="GridCell.Tab.0.right/0.23.1440.805@0.23.1440.805" timestamp="1603065146406" />
     <state width="1398" height="193" key="GridCell.Tab.0.right/0.23.1440.807@0.23.1440.807" timestamp="1603190978838" />
-    <state width="1398" height="193" key="GridCell.Tab.0.right/0.23.1440.810@0.23.1440.810" timestamp="1603190687032" />
+    <state width="1398" height="193" key="GridCell.Tab.0.right/0.23.1440.810@0.23.1440.810" timestamp="1603223694231" />
     <state width="1358" height="193" key="GridCell.Tab.0.right/0.23.1440.812@0.23.1440.812" timestamp="1603133479386" />
     <state width="1358" height="267" key="GridCell.Tab.1.bottom" timestamp="1603139631697">
       <screen x="0" y="23" width="1440" height="810" />
